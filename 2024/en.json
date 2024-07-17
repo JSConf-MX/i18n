@@ -1,0 +1,292 @@
+{
+  "hero": {
+    "p1": "Come to the Mexican edition of the most prestigious conference for front-end developers in the world. Meet the people making groundbreaking projects a reality. Connect with a dynamic, enthusiastic, robust and growing community.",
+    "title": "JSConf México 2024 is coming",
+    "speakers": "Speakers",
+    "attendees": "People Attending",
+    "venue": "Venue",
+    "date": "Date",
+    "location": "Location",
+    "cfp": "Call for speakers!",
+    "sponsor": "Become a sponsor!",
+    "tickets": "Get your tickets"
+  },
+  "coc": {
+    "title": "Code of Conduct",
+    "p1": "All attendees, speakers, sponsors and volunteers at JSConf Mexico are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.",
+    "purpose": {
+      "title": "Purpose of this document",
+      "p": [
+        "JSConf Mexico is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment from conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media.",
+        "Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.",
+        "Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment."
+      ]
+    },
+    "reporting": {
+      "title": "Reporting",
+      "p": "If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. If you see or hear someone do something, that might violate this Code of Conduct, please report it. You can make a personal report by:",
+      "card1": "Contacting a staff member, identified by our t-shirts with the word “organizer”.",
+      "card2": " Twitter direct messages: our DMs on twitter are always open.",
+      "card3": "Email - You can send us an email, it will take us about an hour to respond."
+    },
+    "enforcement": {
+      "title": "Enforcement",
+      "p": [
+        "Participants asked to stop any harassing behavior are expected to comply immediately.",
+        "If a participant engages in harassing behaviour, event organisers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the conference with no refund. ",
+        "We expect participants to follow these rules at conference and workshop venues and conference-related social events."
+      ]
+    },
+    "harassment": {
+      "title": "Harassment",
+      "p1": "Harassment includes, but is not limited to:",
+      "list": [
+        "Verbal or written comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion.",
+        "Sexual images in public spaces.",
+        "Deliberate intimidation, stalking, or following.",
+        "Harassing photography or recording.",
+        "Sustained disruption of talks or other events.",
+        "Inappropriate physical contact.",
+        "Unwelcome sexual attention.",
+        "Advocating for, or encouraging, any of the above behaviour."
+      ]
+    },
+    "language": {
+      "title": "Inclusive language",
+      "p": "In our commitment to a harassment-free and inclusive environment we strongly believe it's important to pay attention to harmful language patterns.",
+      "t1": {
+        "title": "Ableism",
+        "p": "Words like \"crazy\", \"dumb\", \"insane\" or \"lame\" are examples of ableist language, devaluing people who have physical or mental disabilities. Its appearance often stems not from any intentional desire to offend, but from our innate sense of what it means to be “normal”. These words can be avoided by using more fitting, clearer descriptions of what we want to communicate.",
+        "link": "To find out more about ableism and replacement terms please read this guide.",
+        "url": "https://libguides.ufv.ca/c.php?g=705905&p=5193383"
+      },
+      "t2": {
+        "title": "Sexism",
+        "p": "Using gendered terms like \"dude\" or \"guys\" to address a mixed-gendered group of people contributes to furthering exclusion of underrepresented individuals. We strongly advise avoiding gendered pronouns as well as gendered terms. ",
+        "link": "For more information please familiarise yourself with the Geek Feminism wiki guide.",
+        "url": "https://geekfeminism.fandom.com/wiki/Feminism_101"
+      }
+    },
+    "help": {
+      "title": "Need help?",
+      "p": "Conference staff will be happy to help participants to feel safe for the duration of the conference.",
+      "t": "Contact us! ↓"
+    }
+  },
+  "refund": {
+    "title": "Refund Policy",
+    "p1": "Thanks for buying your ticket and support the 2024 edition of JSConf Mexico. If for any reason, you could not assist to the conference, you can transfer your ticket to someone else. Unfortunately we cannot refund your ticket. But you can transfer it to any the person you want just following the next steps ↓",
+    "transfer": {
+      "title": "Ticket transfer",
+      "p": [
+        "Send an email to info@jsconf.mx with the subject “Ticket Transfer” and the following information, and we will take care of the rest:",
+        "Name of the person who bought the ticket.",
+        "Name of the person who will receive the ticket.",
+        "Email of the person who will receive the ticket."
+      ]
+    },
+    "help": {
+      "title": "Need help?",
+      "p": "If you have any questions about our Refund Policy, please contact us.",
+      "t": "Contact us! ↓"
+    }
+  },
+  "about": {
+    "title": "About us",
+    "p1": "JSConf México is made by members of communities from all over the country who join forces to create an incredible event. Learn more about JSConf Mexico and our history.",
+    "important": {
+      "title": "The most important thing about JSConf Mexico...",
+      "p": [
+        "But the most important part of JSConf Mexico is you. You the guest who visit our event every year, you the sponsor who believes in our mission, your speaker who shares your knowledge with us.",
+        "We couldn't be more grateful to all of you.",
+        "You make this event possible."
+      ]
+    },
+    "help": {
+      "title": "Want to be part?",
+      "p": "Do you want to be a sponsor? Do you want to be a speaker? Please contact us!",
+      "t": "Contact us! ↓"
+    }
+  },
+  "header_footer": {
+    "about": "About us",
+    "coc": "Code of Conduct",
+    "tickets": "Get your tickets",
+    "donate": "Donate",
+    "refund": "Refund Policy",
+    "privacy": "Privacy Policy",
+    "faq": "FAQ"
+  },
+  "faq": [
+    {
+      "q": "Where can I buy the tickets?",
+      "a": "More information is coming soon."
+    },
+    {
+      "q": "How do I get a refund?",
+      "a": "Unfortunately, all tickets are non-refundable, but you can transfer your ticket to someone else."
+    },
+    {
+      "q": "Can I transfer my ticket(s) to someone else?",
+      "a": "Yes, all tickets are transferable. Please email info@jsconf.mx with your ticket purchase confirmation and the new attendee's name, email and phone number. We’re not responsible for the arranged payment that you agree with the new attendee."
+    },
+    {
+      "q": "What is Scholarship Support, and how does it work",
+      "a": "If you purchase one of the Scholarship Support options, you will be helping someone from our scholarship program to attend. More information is coming soon."
+    },
+    {
+      "q": "What’s the schedule for the conference?",
+      "a": "Registrations begin at 10 am. The main event is from 10:30 am until 6 pm. More information is coming soon."
+    },
+    {
+      "q": "Will the talks be recorded and shared?",
+      "a": "All talks given during JSConf MX 2024 will be recorded and shared on the JSConf YouTube channel."
+    },
+    {
+      "q": "Do you provide lunch?",
+      "a": "No, but we provide you with snacks, coffee and water."
+    },
+    {
+      "q": "How can I become a sponsor for JSConf Mexico 2024?",
+      "a": "You can check our deck for sponsorships or email sponsors@jsconf.mx for further questions."
+    },
+    {
+      "q": "Can I participate in JSConf Mexico 2024 as a community?",
+      "a": "We are looking for tech-related communities! Please contact us at info@jsconf.mx for inquiries."
+    },
+    {
+      "q": "What is the budget breakdown of JSConf Mexico?",
+      "a": "Our revenues come from sponsorships, donations, and ticket sales. We’ll release a summarised breakdown of our expenditures after the conference."
+    },
+    {
+      "q": "Can I request an invoice for my tickets?",
+      "a": "If you require an invoice, it is important to request it before the 30th of each month, send us all your information to info@jsconf.mx."
+    }
+  ],
+  "FaqHelp": {
+    "title": "Still have questions",
+    "p": "We will be happy to answer you please feel free to send us a message",
+    "t": "Contact us! ↓"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "p": [
+      "At JSConf Mexico Inc, we respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and disclose your personal information in connection with our website and services.",
+
+      "What information we collect",
+      "We collect the following types of information:",
+      "Personal information you provide to us: When you register for our conference, we collect your name, email address, and dietary preferences.",
+      "Information we receive from Google: If you choose to sign in using your Google account, we will receive your email address from Google.",
+
+      "How we use your information",
+      "We use the information we collect for the following purposes:",
+      "To provide you with our conference services, including sending you information about the conference and your registration. To communicate with you about our conference and related events. To share your contact information with recruiters if you opt in to this service. To comply with legal obligations and protect our rights and interests. We do not sell your personal information to third parties.",
+
+      "How we protect your information",
+      "We use reasonable and appropriate measures to protect the confidentiality, integrity, and availability of your personal information. We also require our third-party service providers to implement and maintain appropriate security measures to protect your personal information.",
+
+      "Your rights",
+      "You have the right to:",
+      "Access your personal information and request that we correct or update it.",
+      "Request that we delete your personal information.",
+      "Object to our processing of your personal information.",
+      "If you have any questions or concerns about our privacy practices, please contact us at info@jsconf.mx. Changes to this Privacy Policy We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the updated policy on our website and updating the last updated date at the top of the policy."
+    ]
+  },
+  "venue": {
+    "title": "Venue",
+    "p": "Welcome, JavaScript enthusiasts! We are delighted to announce that our next JSConf México will be held at the vibrant Jardín Americana, Guadalajara. This charming location, nestled in the heart of Guadalajara, will be the home of our innovative and revolutionary ideas, energetic networks and, of course, the captivating beauty of code.",
+    "getTo": {
+      "title": "How to get to Jardín americana",
+      "subtitle": "Address",
+      "address": "Av. Ignacio L Vallarta 1305, Col Americana, 44160 Guadalajara, Jal."
+    },
+    "arrival": {
+      "title": "Make your arrival at the venue more comfortable",
+      "description": "Here there are some safe transport options for your arrival at the venue.",
+      "parkingAmericas": {
+        "name": "Parking lot Americas",
+        "link": "/"
+      },
+      "parkingApp": {
+        "name": "Parking payment app to park your car on the street",
+        "link": "/"
+      },
+      "parkingVallarta": {
+        "name": "Parking lot Av. Vallarta",
+        "link": "/"
+      },
+      "parkingJardin": {
+        "name": "Parking lot Jardín",
+        "link": "/"
+      },
+      "rentBike": {
+        "name": "Rent a bike",
+        "link": "/"
+      }
+    },
+    "help": {
+      "title": "Have questions about how to get there?",
+      "p": "Please contact us!",
+      "t": "Contact us! ↓"
+    }
+  },
+  "tickets": {
+    "title": "Get your tickets",
+    "titles": {
+      "early": "Early bird ticket",
+      "student": "Student ticket",
+      "faseOne": "Fase 1"
+    },
+    "form": {
+      "attendeTitle": "Attendee Information",
+      "attendeDetails": "Personal data",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "country": "Country",
+      "phone": "Phone",
+      "github": "GitHub",
+      "dietary": "Dietary Preferences",
+      "jobTitle": "Job Title",
+      "companyName": "Company Name",
+      "companyWebsite": "Company Website",
+      "experience": "Years of Experience",
+      "accessibility": "Accessibility Needs",
+      "shareDataAgree": "I agree to share my contact information with sponsors and recruiters.",
+      "shareData": "Share Data",
+      "buyTicket": {
+        "EARLY": "Buy Ticket for 1300 MXN",
+        "STUDENT": "Buy Ticket for 800 MXN",
+        "FASE_ONE": "Buy Ticket for 1700 MXN"
+      }
+    }
+  },
+  "see_you_soon": {
+    "title": "See you soon in Guadalajara!"
+  },
+  "error": {
+    "title": "Oops! Something went wrong"
+  },
+  "speaker": {
+    "title": "Speakers",
+    "p1": "Meet the people making groundbreaking projects a reality. Connect with a dynamic, enthusiastic, robust and growing community.",
+    "speakers": [
+      {
+        "name": "Charlie Gerard",
+        "role": "Staff Full Stack Engineer at Socket",
+        "image": "charlieGerard"
+      },
+      {
+        "name": "Julian Duque",
+        "role": "Head of Developer Relations at Salesforce Heroku",
+        "image": "julianDuque"
+      },
+      {
+        "name": "Miguel Ángel Durán",
+        "role": "midudev",
+        "image": "midu"
+      }
+    ]
+  }
+}
