@@ -1,0 +1,294 @@
+{
+  "hero": {
+    "p1": "Ven a la edición mexicana de la conferencia más prestigiosa para desarrolladores front-end del mundo. Conoce a las personas que están haciendo realidad proyectos innovadores. Conéctate con una comunidad dinámica, entusiasta, robusta y en crecimiento.",
+    "title": "JSConf México 2024 muy pronto",
+    "speakers": "Speakers",
+    "attendees": "People Attending",
+    "venue": "Venue",
+    "date": "Fecha",
+    "location": "Locación",
+    "cfp": "¡Llamada a presentadores!",
+    "sponsor": "¡Se un patrocinador!",
+    "tickets": "Compra tus boletos"
+  },
+  "coc": {
+    "title": "Código de Conducta",
+    "p1": "JSConf México se dedica a proporcionar una experiencia de conferencia libre de acoso para todos.",
+    "p2": "Cualquier persona que asista (incluidos ponentes, patrocinadores y voluntarios) debe respetar nuestro Código de Conducta. El equipo organizador no tolerará ninguna forma de acoso o discriminación; quien cometa estas acciones será sancionado. Los organizadores harán cumplir este código durante todo el evento. Esperamos la cooperación de todos los participantes para ayudar a asegurar un ambiente seguro para todos. ¡Ayúdanos a hacer de JSConf México una experiencia agradable para todos!",
+    "purpose": {
+      "title": "Propósito de este documento",
+      "p": [
+        "JSConf México está dedicada a proveer una experiencia libre de acoso para quienes asistan, independientemente de su sexo, orientación sexual, discapacidad, apariencia física, tipo de cuerpo, raza o religión. No toleraremos el acoso de las y los participantes de la conferencia de ninguna forma. El lenguaje y las imágenes sexuales no son apropiadas durante ningún momento de la conferencia; incluyendo charlas, talleres, fiestas, Twitter y cualquier otra red social.",
+        "Las y los participantes de la conferencia que violen estas reglas podrán ser expulsados del evento sin derecho a ningún tipo de reembolso a criterio de las y los organizadores de la conferencia.",
+        "Los patrocinadores también se encuentran sujetos a nuestra política anti acoso. Estos en particular, no podrán utilizar imágenes, actividades o material sexualizado. El personal de los stands, incluyendo a las y los voluntarios, no podrán utilizar ropa/uniformes/disfraces o cualquier otra cosa que cree un ambiente sexualizado."
+      ]
+    },
+    "reporting": {
+      "title": "Reportes",
+      "p": "Si alguien te hace sentir a ti o a alguien más inseguro o inapropiado, por favor repórtalo tan pronto como te sea posible. Si ves u oyes a alguien hacer algo que viole este código de conducta, por favor háznoslo saber. Puedes hacer tu reporte por alguno de los siguientes medios:",
+      "card1": "Contacta a algún miembro del personal, podrás identificarnos por nuestras playeras con la palabra “organizador”.",
+      "card2": "Mensajes directos por Twitter: nuestros mensajes directos en Twitter se encuentran siempre abiertos.",
+      "card3": "Correo electrónico: Puedes enviarnos un correo electrónico, tardaremos aproximadamente una hora en responderte."
+    },
+    "enforcement": {
+      "title": "Cumplimiento",
+      "p": [
+        "Se espera que a las y los participantes que se les solicite detener cualquier comportamiento de acoso, lo hagan de inmediato.",
+        "Cualquiera que se involucre en conductas de acoso las y los organizadores del evento se reservan el derecho a tomar cualquier medida necesaria para mantener el evento con un ambiente acogedor para todas y todos los participantes. Esto incluye advertencias o la expulsión de la conferencia sin derecho a devoluciones para el agraviante.",
+        "Esperamos que todas y todos los participante sigan estas reglas durante su permanencia en la conferencia, talleres y cualquier evento social relacionado con la conferencia."
+      ]
+    },
+    "harassment": {
+      "title": "Acoso",
+      "p1": "El acoso incluye, pero no está limitado a: ",
+      "list": [
+        "Comentarios verbales o escritos que refuercen estructuras sociales de dominación relacionadas al género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, tipo de cuerpo, raza, edad o religión.",
+        "Imágenes sexuales en espacios públicos.",
+        "Intimidación deliberada, acoso o seguimiento.",
+        "Acoso con fotografías o videos.",
+        "Interrupciones constantes durante las conversaciones u otros eventos.",
+        "Contacto físico inapropiado.",
+        "Atención sexual no deseada.",
+        "Abogar por, o alentar a alguna de las conductas anteriormente mencionadas."
+      ]
+    },
+    "language": {
+      "title": "Lenguaje inclusivo",
+      "p": "En nuestro compromiso por generar un entorno inclusivo y libre de acoso, creemos firmemente en la importancia de prestar atención a los patrones de lenguaje dañinos.",
+      "t1": {
+        "title": "Discriminación de la discapacidad",
+        "p": "Palabras como “demente”, “loco”, “mongol” o “retrasado mental”, son ejemplos de lenguaje capacitista devaluando las personas que tienen alguna discapacidad física o mental. A menudo no se deriva de ningún deseo intencional de ofender, sino de la normalización que le hemos dado a lo que significa ser “normal”. Estas palabras se pueden evitar mediante el uso de descripciones más adecuadas y claras de lo que se quiera comunicar.",
+        "link": "Para obtener más información acerca de discriminación de la discapacidad y términos de reemplazo, por favor lee esta guía.",
+        "url": "https://libguides.ufv.ca/c.php?g=705905&p=5193383"
+      },
+      "t2": {
+        "title": "Sexismo",
+        "p": "El uso de términos como “amigos” o “compañeros” para dirigirse a un grupo de personas de género mixto, contribuye a promover la exclusión de las personas subrepresentadas. Recomendamos insistentemente a evitar los pronombres de género.",
+        "link": "Para obtener más información puedes leer Geek Feminism wiki guide.",
+        "url": "https://geekfeminism.fandom.com/wiki/Feminism_101"
+      }
+    },
+    "help": {
+      "title": "¿Necesitas ayuda?",
+      "p": "El staff estará encantado de ayudar a los participantes a sentirse seguros durante la conferencia.",
+      "t": "Contáctanos ! ↓"
+    }
+  },
+  "refund": {
+    "title": "Pólitica de reembolso",
+    "p1": "Gracias por comprar tu boleto y apoyar la edición 2024 de JSConf México. Si por algún motivo no pudiera asistir a la conferencia, puede transferir su entrada a otra persona. Lamentablemente no podemos reembolsar su boleto. Pero puedes transferirlo a cualquier persona que quieras simplemente siguiendo los siguientes pasos ↓",
+    "transfer": {
+      "title": "Tranferencia de boleto",
+      "p": [
+        "Manda un email a info@jsconf.mx con el tema “Transferencia de Boleto” y la información siguiente, y nosotros haremos el resto:",
+        "Nombre de la persona que compró el boleto.",
+        "Nombre de la persona que recibirá el boleto.",
+        "Email de la persona que recibirá el boleto."
+      ]
+    },
+    "help": {
+      "title": "¿Necesitas ayuda?",
+      "p": "Si tienes alguna pregunta sobre nuestra política de reembolso, contáctanos.",
+      "t": "Contáctanos ! ↓"
+    }
+  },
+  "about": {
+    "title": "Sobre nosotros",
+    "p1": "JSConf México está formado por miembros de comunidades de todo el país que unen fuerzas para crear un evento increíble. Conoce más sobre JSConf México y nuestra historia.",
+    "important": {
+      "title": "Lo mas importante de JSConf México...",
+      "p": [
+        "La parte más importante de JSConf México eres tú.",
+        "Tú que visitas nuestro evento cada año, tú patrocinador que crees en nuestra misión, tú ponente que compartes tu conocimiento con nosotros.",
+        "No podríamos estar más agradecidos con todos ustedes.",
+        "Tú haces posible este evento."
+      ]
+    },
+    "help": {
+      "title": "¿Quieres ser parte?",
+      "p": "¿Quieres ser patrocinador? ¿Quieres ser ponente? ¡Por favor contáctanos!",
+      "t": "Contact us! ↓"
+    }
+  },
+  "header_footer": {
+    "about": "Sobre nosotros",
+    "coc": "Código de Conducta",
+    "tickets": "Compra tus boletos",
+    "donate": "Dona",
+    "refund": "Política de reembolso",
+    "privacy": "Política de privacidad",
+    "faq": "FAQ"
+  },
+  "faq": [
+    {
+      "q": "¿Dónde puedo comprar los boletos?",
+      "a": "Pronto se proporcionará más información al respecto."
+    },
+    {
+      "q": "¿Cómo obtengo un reembolso?",
+      "a": "Desafortunadamente, todos los boletos no son reembolsables, pero puedes transferir tu boleto a otra persona."
+    },
+    {
+      "q": "¿Puedo transferir mi(s) boleto(s) a alguien más?",
+      "a": "Sí, todos los boletos son transferibles. Por favor, envía un correo electrónico a info@jsconf.mx con la confirmación de compra de tu boleto y los datos del nuevo asistente, como nombre, correo electrónico y número de teléfono. No nos hacemos responsables del pago acordado que realices con el nuevo asistente."
+    },
+    {
+      "q": "¿Qué es el Apoyo a las Becas y cómo funciona?",
+      "a": "Si compras una de las opciones de Apoyo a las Becas, estarás ayudando a alguien de nuestro programa de becas a asistir. Pronto se proporcionará más información al respecto."
+    },
+    {
+      "q": "¿Cuál es el horario de la conferencia?",
+      "a": "Las inscripciones comienzan a las 10 am. El evento principal es de 10:30 am a 6 pm. Pronto se proporcionará más información al respecto."
+    },
+    {
+      "q": "¿Se grabarán y compartirán las charlas?",
+      "a": "Todas las charlas impartidas durante JSConf MX 2024 se grabarán y se compartirán en el canal de YouTube de JSConf."
+    },
+    {
+      "q": "¿Proporcionan almuerzo?",
+      "a": "No, pero te ofrecemos refrigerios, café y agua."
+    },
+    {
+      "q": "¿Cómo puedo convertirme en patrocinador de JSConf Mexico 2024?",
+      "a": "Puedes consultar nuestra presentación de patrocinios o enviar un correo electrónico a sponsors@jsconf.mx para obtener más información."
+    },
+    {
+      "q": "¿Puedo participar en JSConf Mexico 2024 como comunidad?",
+      "a": "¡Estamos buscando comunidades relacionadas con la tecnología! Por favor, contáctanos en info@jsconf.mx para consultas."
+    },
+    {
+      "q": "¿Cuál es el desglose presupuestario de JSConf México?",
+      "a": "Nuestros ingresos provienen de patrocinios, donaciones y ventas de boletos. Publicaremos un resumen del desglose de nuestros gastos después de la conferencia."
+    },
+    {
+      "q": "¿Puedo pedir factura de mis boletos?",
+      "a": "En caso de requerir factura, es importante solicitarla antes del día 30 de cada mes, haznos llegar todos tus datos a info@jsconf.mx."
+    }
+  ],
+  "FaqHelp": {
+    "title": "Todavía tengo preguntas",
+    "p": "Estaremos encantados de responderte, no dudes en contactarnos",
+    "t": "Contáctanos ! ↓"
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "p": [
+      "En JSConf Mexico Inc, respetamos su privacidad y nos comprometemos a proteger sus datos personales. Esta Política de privacidad explica cómo recopilamos, usamos y divulgamos su información personal en relación con nuestro sitio web y servicios.",
+
+      "Qué información recopilamos",
+      "Recopilamos los siguientes tipos de información:",
+      "Información personal que nos proporciona: Cuando se registra para nuestra conferencia, recopilamos su nombre, dirección de correo electrónico y preferencias dietéticas.",
+      "Información que recibimos de Google: Si elige iniciar sesión con su cuenta de Google, recibiremos su dirección de correo electrónico de Google.",
+
+      "Cómo usamos su información",
+      "Utilizamos la información que recopilamos para los siguientes fines:",
+      "Proporcionarle nuestros servicios de conferencia, incluido el envío de información sobre la conferencia y su registro. Comunicarnos con usted sobre nuestra conferencia y eventos relacionados. Compartir su información de contacto con reclutadores si decide participar en este servicio. Cumplir con las obligaciones legales y proteger nuestros derechos e intereses. No vendemos su información personal a terceros.",
+
+      "Cómo protegemos su información",
+      "Utilizamos medidas razonables y apropiadas para proteger la confidencialidad, integridad y disponibilidad de su información personal. También exigimos a nuestros proveedores de servicios de terceros que implementen y mantengan medidas de seguridad adecuadas para proteger su información personal.",
+
+      "Sus derechos",
+      "Usted tiene derecho a:",
+      "Acceder a su información personal y solicitar que la corrijamos o actualicemos.",
+      "Solicitar que eliminemos su información personal.",
+      "Oponerse a nuestro procesamiento de su información personal.",
+      "Si tiene alguna pregunta o inquietud acerca de nuestras prácticas de privacidad, contáctenos en info@jsconf.mx. Cambios en esta política de privacidad Podemos actualizar esta Política de privacidad de vez en cuando. Le notificaremos cualquier cambio material publicando la política actualizada en nuestro sitio web y actualizando la fecha de última actualización en la parte superior de la política."
+    ]
+  },
+  "venue": {
+    "title": "Venue",
+    "p": "¡Bienvenidos, entusiastas de JavaScript! Estamos encantados de anunciar que nuestra próxima JSConf México se llevará a cabo en el vibrante Jardín Americana, Guadalajara. Este lugar encantador, enclavado en el corazón de Guadalajara, será el hogar de nuestras ideas innovadoras y revolucionarias, enérgico networking y, por supuesto, la cautivadora belleza del código.",
+    "getTo": {
+      "title": "Cómo llegar al Jardín Americana",
+      "subtitle": "Dirección",
+      "address": "Av. Ignacio L Vallarta 1305, Col Americana, 44160 Guadalajara, Jal."
+    },
+    "arrival": {
+      "title": "Make your arrival at the venue more comfortable",
+      "description": "Here there are some safe transport options for your arrival at the venue.",
+      "parkingAmericas": {
+        "name": "Parking lot Americas",
+        "link": "/"
+      },
+      "parkingApp": {
+        "name": "Parking payment app to park your car on the street",
+        "link": "/"
+      },
+      "parkingVallarta": {
+        "name": "Parking lot Av. Vallarta",
+        "link": "/"
+      },
+      "parkingJardin": {
+        "name": "Parking lot Jardín",
+        "link": "/"
+      },
+      "rentBike": {
+        "name": "Rent a bike",
+        "link": "/"
+      }
+    },
+    "help": {
+      "title": "¿Dudas sobre cómo llegar?",
+      "p": "Contáctanos!",
+      "t": "Contáctanos ! ↓"
+    }
+  },
+  "tickets": {
+    "title": "Compra tus boletos",
+    "titles": {
+      "early": "Early bird ticket",
+      "student": "Boleto de estudiante",
+      "faseOne": "Fase 1"
+    },
+    "form": {
+      "attendeTitle": "Datos personales",
+      "attendeDetails": "Detalles del asistente",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Correo Electrónico",
+      "country": "País",
+      "phone": "Teléfono",
+      "github": "GitHub",
+      "dietary": "Preferencias alimenticias",
+      "jobTitle": "Puesto de trabajo",
+      "companyName": "Nombre de la empresa",
+      "companyWebsite": "Sitio web de la empresa",
+      "experience": "Experiencia",
+      "accessibility": "Accesibilidad",
+      "shareDataAgree": "Estoy de acuerdo en compartir mis datos con los patrocinadores y reclutadores.",
+      "shareData": "Compartir mi datos",
+      "buyTicket": {
+        "EARLY": "Compra boleto a 1300 MXN",
+        "STUDENT": "Compra boleto a 800 MXN",
+        "FASE_ONE": "Buy Ticket for 1700 MXN"
+      }
+    }
+  },
+  "see_you_soon": {
+    "title": "¡Nos vemos pronto en Guadalajara!"
+  },
+  "error": {
+    "title": "¡Ups! Algo salió mal"
+  },
+  "speaker": {
+    "title": "Ponentes",
+    "p1": "Conoce a las personas que hacen realidad proyectos innovadores. Conéctate con una comunidad dinámica, entusiasta, robusta y en crecimiento.",
+    "speakers": [
+      {
+        "name": "Charlie Gerard",
+        "role": "Staff Full Stack Engineer at Socket",
+        "image": "charlieGerard"
+      },
+      {
+        "name": "Julian Duque",
+        "role": "Head of Developer Relations at Salesforce Heroku",
+        "image": "julianDuque"
+      },
+      {
+        "name": "Miguel Ángel Durán",
+        "role": "midudev",
+        "image": "midu"
+      }
+    ]
+  }
+}
